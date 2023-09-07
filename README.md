@@ -1,4 +1,4 @@
-# Hey 👋 It's Joon welcome to my GitHub Profile
+# Hey 👋 It's Joon Welcome to my GitHub Profile
 
 ## About
 
