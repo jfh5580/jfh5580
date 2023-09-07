@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/joonkyuhong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 
 
-As a driven Master's student in Business Analytics, I am actively seeking Data Scientist or Machine Learning job opportunities to apply my strong academic foundation in data analysis and machine learning. My goal is to contribute to an innovative team, leveraging data-driven solutions to tackle complex challenges and drive business growth.
+Data scientist and aspiring machine learning enthusiast, currently pursuing a Master's degree in Business Analytics. Passionate about extracting valuable insights from data to drive informed decision-making and solve complex problems. Skilled in Python, machine learning, statistical analysis, and data visualization. Eager to contribute my expertise to innovative projects and make a meaningful impact in the field of data science.
 
 ## Technical Skills:
 
