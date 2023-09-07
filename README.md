@@ -4,7 +4,7 @@
 
 🎓 M.S Business Analytics at GWU
 
-🎓 B.S Statistics with a focus on Information Sciences and Technology At Penn State
+🎓 B.S Statistics with a focus on Information Sciences and Technology at Penn State
 
 📈 Graduate Student looking for a full-time job in the data science field
 
