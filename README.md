@@ -6,7 +6,7 @@
 
 🎓 B.S Statistics with a focus on Information Sciences and Technology At Penn State
 
-📈 Graduate Student looking for a full-time job in data science field
+📈 Graduate Student looking for a full-time job in the data science field
 
 📧 joonhong96@gwu.edu
 
@@ -22,7 +22,7 @@ As a driven Master's student in Business Analytics, I am actively seeking Data S
 - Machine Learning: Supervised and Unsupervised Learning, Classification, Regression, Clustering, Neural Networks
 - Deep Learning: PyTorch
 - Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis
-- Big Data Technologies: Apache Spark, Hadoop
+- Big Data Technologies: Spark
 - Data Visualization: Matplotlib, Seaborn, Power BI
 - Natural Language Processing (NLP): NLTK, spaCy
 - Model Evaluation: Cross-validation, ROC, AUC, Precision-Recall
