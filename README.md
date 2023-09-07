@@ -27,9 +27,9 @@ Data scientist and aspiring machine learning enthusiast, currently pursuing a Ma
 - Natural Language Processing (NLP): NLTK, spaCy
 - Model Evaluation: Cross-validation, ROC, AUC, Precision-Recall
 - Feature Engineering: Principal Component Analysis (PCA), Feature Selection
-- Time Series Analysis: ARIMA, Prophet
+- Time Series Analysis: ARIMA
 - Data Preprocessing: Data Cleaning, Imputation, Scaling, Normalization
-- Version Control: Git, GitHub
+- Version Control: GitHub
 - Cloud Computing: AWS, Google Cloud
 - Database Management: PostgreSQL
 - Optimization Techniques: Gradient Descent, Genetic Algorithms
