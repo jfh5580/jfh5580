@@ -19,11 +19,11 @@ Data scientist and aspiring machine learning enthusiast, currently pursuing a Ma
 
 - Programming Languages: Python, R, SQL
 - Data Analysis: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- Machine Learning: Supervised and Unsupervised Learning, Classification, Regression, Clustering, Neural Networks
+- Machine Learning: Supervised and Unsupervised Learning, Classification, Regression, Clustering, Neural Networks, Explainable Machine Learning
 - Deep Learning: PyTorch
-- Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis
+- Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis, Survey Sampling
 - Big Data Technologies: Spark
-- Data Visualization: Matplotlib, Seaborn, Power BI
+- Data Visualization: Matplotlib, Seaborn, Power BI, Minitab
 - Natural Language Processing (NLP): NLTK, spaCy
 - Model Evaluation: Cross-validation, ROC, AUC, Precision-Recall
 - Feature Engineering: Principal Component Analysis (PCA), Feature Selection
@@ -33,6 +33,8 @@ Data scientist and aspiring machine learning enthusiast, currently pursuing a Ma
 - Cloud Computing: AWS, Google Cloud
 - Database Management: PostgreSQL
 - Optimization Techniques: Gradient Descent, Genetic Algorithms
+- Risk Application in Machine Learning: Post-hoc Explanation, Bias Testing, Remediation, Model Debugging, Security
+, 
 
 
 ## Soft Skills:
