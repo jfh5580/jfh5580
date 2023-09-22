@@ -50,5 +50,5 @@ Data scientist and aspiring machine learning enthusiast, currently pursuing a Ma
 
 ## Projects 
 
-Please visit my portfolio page [page][https://github.com/jfh5580/data-science-portfolio/blob/main/README.md]
+Please visit my portfolio page [Link](https://github.com/jfh5580/data-science-portfolio/blob/main/README.md)
 
