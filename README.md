@@ -34,7 +34,6 @@ Data scientist and aspiring machine learning enthusiast, currently pursuing a Ma
 - Database Management: PostgreSQL
 - Optimization Techniques: Gradient Descent, Genetic Algorithms
 - Risk Application in Machine Learning: Post-hoc Explanation, Bias Testing, Remediation, Model Debugging, Security
-, 
 
 
 ## Soft Skills:
