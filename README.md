@@ -13,14 +13,22 @@
 <a href="https://www.linkedin.com/in/joonkyuhong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 
 
-Data scientist and aspiring machine learning enthusiast, currently pursuing a Master's degree in Business Analytics. Passionate about extracting valuable insights from data to drive informed decision-making and solve complex problems. Skilled in Python, machine learning, statistical analysis, and data visualization. Eager to contribute my expertise to innovative projects and make a meaningful impact in the field of data science.
+A dedicated data professional skilled in unraveling complex challenges and delivering impactful business solutions. 
+This skill set includes:
+• Proficient development of analytical models, particularly with 
+large and intricate datasets.
+• Application of a diverse array of techniques, such as LLMs, 
+Machine Learning, Deep Learning, Time Series Analysis, NLP, 
+and Risk Analysis
+• Demonstrated ability in crafting compelling data narratives, 
+presented through clear and concise visualizations and reports.
 
 ## Technical Skills:
 
-- Programming Languages: Python, R, SQL
+- Programming Languages: Python, R, SQL, SAS
 - Data Analysis: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - Machine Learning: Supervised and Unsupervised Learning, Classification, Regression, Clustering, Neural Networks, Explainable Machine Learning
-- Deep Learning: PyTorch
+- Deep Learning: PyTorch, TensorFlow
 - Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis, Survey Sampling
 - Big Data Technologies: Spark
 - Data Visualization: Matplotlib, Seaborn, Power BI, Minitab
